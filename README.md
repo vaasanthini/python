@@ -1,1 +1,1 @@
-# a repo to store all the pyhton programs including practice questions
+# a repo to store all the python programs including practice questions
